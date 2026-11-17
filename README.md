@@ -9,7 +9,7 @@ Repository ini memuat proyek analisis data komprehensif terhadap dataset **Craig
 
 ## 🚀 Buka Langsung di Google Colab
 
-Kamu bisa langsung menjalankan notebook ini di Google Colab tanpa perlu mengunduh apa pun secara manual ke komputermu:
+Kamu bisa langsung menjalankan notebook ini di Google Colab tanpa perlu instalasi apa pun:
 
 👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AliefReefandi/Data_sains/blob/main/UTS_Data_Science_Kendaraan.ipynb)
 
@@ -21,10 +21,9 @@ Kamu bisa langsung menjalankan notebook ini di Google Colab tanpa perlu mengundu
 
 ```text
 ├── UTS_Data_Science_Kendaraan.ipynb       # Jupyter Notebook utama (lengkap dengan output visualisasi)
-├── Laporan_Tubes1_Data_Sains.docx         # Laporan lengkap format Word (Siap Cetak Hard Copy)
-├── Laporan_Tubes1_Data_Sains.html         # Laporan versi web interaktif & siap print via browser (Ctrl+P)
-├── images/                                # Direktori grafik dan visualisasi beresolusi tinggi
-└── README.md                              # Dokumentasi proyek
+├── images/                                # Direktori grafik dan visualisasi pendukung
+├── .gitignore                             # Konfigurasi standar git
+└── README.md                              # Dokumentasi proyek & tombol Open in Colab
 ```
 
 ---
@@ -86,7 +85,7 @@ Notebook `UTS_Data_Science_Kendaraan.ipynb` telah dioptimalkan agar dapat dijala
 
 ### A. Dijalankan di Google Colab (1-Klik)
 1. Klik tombol badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AliefReefandi/Data_sains/blob/main/UTS_Data_Science_Kendaraan.ipynb)
-2. Unggah `vehicles.csv` atau `Datasets.zip` ke storage session Colab jika ingin re-run dari awal.
+2. Unggah `vehicles.csv` atau `Datasets.zip` ke storage session Colab jika ingin me-run ulang seluruh sel dari awal.
 3. Jalankan seluruh sel secara berurutan (*Runtime* $\to$ *Run all*).
 
 ### B. Dijalankan di Komputer Lokal (Jupyter Notebook / VS Code)

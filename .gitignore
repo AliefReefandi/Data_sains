@@ -1,18 +1,15 @@
-# Python temporary files
+# Python temporary & helper files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Temporary inspection & helper scripts
 *.py
-!extract_images.py
 
-# Keep docx, html, notebook, images, and readme
-!generate_docx_report.py
-!generate_html_report.py
+# Reports kept locally on computer for hard copy printing
+*.docx
+*.html
 
-# Notebook checkpoints & logs
+# Notebook checkpoints & temporary logs
 .ipynb_checkpoints
 *.log
 notebook_summary.txt
