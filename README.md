@@ -1,7 +1,19 @@
 # Analisis Data Craigslist Cars & Trucks
 ### Tugas Besar 1 / Ujian Tengah Semester (UTS) — Data Sains
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AliefReefandi/Data_sains/blob/main/UTS_Data_Science_Kendaraan.ipynb)
+
 Repository ini memuat proyek analisis data komprehensif terhadap dataset **Craigslist Cars & Trucks**, mencakup tahapan pemeriksaan struktur data, analisis eksploratif (EDA Q1–Q3), pembersihan dan validasi data (*Data Processing & Imputation*), serta analisis korelasi statistik (*Pearson & Spearman*).
+
+---
+
+## 🚀 Buka Langsung di Google Colab
+
+Kamu bisa langsung menjalankan notebook ini di Google Colab tanpa perlu mengunduh apa pun secara manual ke komputermu:
+
+👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AliefReefandi/Data_sains/blob/main/UTS_Data_Science_Kendaraan.ipynb)
+
+*(Tautan langsung: [Buka di Google Colab](https://colab.research.google.com/github/AliefReefandi/Data_sains/blob/main/UTS_Data_Science_Kendaraan.ipynb))*
 
 ---
 
@@ -72,9 +84,9 @@ Korelasi dihitung pada **275.254 data kendaraan valid** untuk 3 variabel numerik
 
 Notebook `UTS_Data_Science_Kendaraan.ipynb` telah dioptimalkan agar dapat dijalankan secara fleksibel:
 
-### A. Dijalankan di Google Colab
-1. Buka Google Colab dan unggah berkas `UTS_Data_Science_Kendaraan.ipynb`.
-2. Unggah `vehicles.csv` atau `Datasets.zip` ke storage session Colab.
+### A. Dijalankan di Google Colab (1-Klik)
+1. Klik tombol badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AliefReefandi/Data_sains/blob/main/UTS_Data_Science_Kendaraan.ipynb)
+2. Unggah `vehicles.csv` atau `Datasets.zip` ke storage session Colab jika ingin re-run dari awal.
 3. Jalankan seluruh sel secara berurutan (*Runtime* $\to$ *Run all*).
 
 ### B. Dijalankan di Komputer Lokal (Jupyter Notebook / VS Code)
